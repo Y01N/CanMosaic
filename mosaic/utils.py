@@ -12,8 +12,11 @@ def in_to_px(inches):
 
 def load_target_edge_map(image_path, canvas_width_in, canvas_height_in):
     img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
+    if img is None:
+        raise FileNotFoundError(f"Failed to load target image at '{image_path}' — check the path and file format.")
     img = cv2.resize(img, (in_to_px(canvas_width_in), in_to_px(canvas_height_in)))
     return cv2.Canny(img, 100, 200)
+
 
 def parse_can_images_from_folders(root_dir):
     """
@@ -48,3 +51,17 @@ def energy_function(canvas, edge_map):
 
     total_energy = missing_edges + 5 * gap_penalty + 0.1 * overlap_penalty
     return total_energy
+
+def get_edge_map_from_pil(pil_img):
+    gray = cv2.cvtColor(np.array(pil_img.convert("RGB")), cv2.COLOR_RGB2GRAY)
+    return cv2.Canny(gray, 100, 200)
+
+def overlay_edges_on_image(pil_img, edge_map):
+    img_np = np.array(pil_img.convert("RGB")).copy()
+    if img_np.shape[:2] != edge_map.shape:
+        raise ValueError(f"Image and edge map size mismatch: image {img_np.shape[:2]}, edges {edge_map.shape}")
+    
+    red = [255, 0, 0]
+    mask = edge_map > 0
+    img_np[mask] = red
+    return Image.fromarray(img_np)
