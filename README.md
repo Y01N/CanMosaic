@@ -2,6 +2,19 @@
 
 This project creates a mosaic image from a collection of photos. The user can specify an input image, the desired output size in inches, and a folder containing the photos to be used in the mosaic.
 
+The images used need to be given scale in inches via user input or by folder / file names
+The target image and the input images are processed, turned into shapes and colors.
+
+The input images are then arranged to make up the target image. The input images are cans irl.
+The arranged cans may be placed anywhere on the canvas.
+Parameters / creative decisions
+Can the cans be rotated in any manner
+Can the cans overlap eachother and are there limits on how many can stack
+Can the cans folded or cut (maybe once or just at edges)
+Is the edge of the area strict or can cans dangle off the border of the given canvas?
+Must the cans cover the entire canvas
+Can you repeat cans (mainly for testing purposes)
+
 ## Project Structure
 
 ```
