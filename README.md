@@ -8,12 +8,20 @@ The target image and the input images are processed, turned into shapes and colo
 The input images are then arranged to make up the target image. The input images are cans irl.
 The arranged cans may be placed anywhere on the canvas.
 Parameters / creative decisions
-Can the cans be rotated in any manner
-Can the cans overlap eachother and are there limits on how many can stack
-Can the cans folded or cut (maybe once or just at edges)
-Is the edge of the area strict or can cans dangle off the border of the given canvas?
-Must the cans cover the entire canvas
-Can you repeat cans (mainly for testing purposes)
+Can the cans be rotated in any manner - Yes
+Can the cans overlap eachother and are there limits on how many can stack - Yes they can overlap and yes there is a limit bout 5-10 max stack
+Can the cans folded or cut (maybe once or just at edges) - ❌
+Is the edge of the area strict or can cans dangle off the border of the given canvas?  - can dangle
+Must the cans cover the entire canvas - It should try to
+Can you repeat cans - only for testing
+
+The algorithm that places cans should optimize for 
+- matching edges/shapes
+- making groups of colors from source image a uniform color
+- matching colors or shades (grayscale colors)
+- covering the canvas
+- minimizing can overlap 
+- maybe maximizing size of visible can
 
 ## Project Structure
 
