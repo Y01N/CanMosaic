@@ -15,13 +15,18 @@ Is the edge of the area strict or can cans dangle off the border of the given ca
 Must the cans cover the entire canvas - It should try to
 Can you repeat cans - only for testing
 
+Algorithm should have some noise or randomize the start so that it produces multiple options to choose from
+Algorithm should be able to give exact coordinates for can to be placed
+
 The algorithm that places cans should optimize for 
 - matching edges/shapes
 - making groups of colors from source image a uniform color
-- matching colors or shades (grayscale colors)
+- matching shades (grayscale colors) or maybe actual color
 - covering the canvas
 - minimizing can overlap 
 - maybe maximizing size of visible can
+- Depending on how many cans are used in mosaic, optimizing using a certain pallette so the mosaic is a vibe not just rainbow.
+
 
 ## Project Structure
 
