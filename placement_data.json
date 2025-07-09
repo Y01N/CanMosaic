@@ -1,0 +1,2752 @@
+[
+  {
+    "step": 1,
+    "filename": "new generic.png",
+    "translation": [
+      750,
+      802
+    ],
+    "rotation": 232.91291250843736,
+    "mse_score": -16472.298828125,
+    "coverage": 0.8622950819672132
+  },
+  {
+    "step": 2,
+    "filename": "fifty_fest.png",
+    "translation": [
+      495,
+      1580
+    ],
+    "rotation": 164.9214894924648,
+    "mse_score": -16265.1982421875,
+    "coverage": 1.7245173041894355
+  },
+  {
+    "step": 3,
+    "filename": "apple cola.png",
+    "translation": [
+      1168,
+      1076
+    ],
+    "rotation": 188.9899863811467,
+    "mse_score": -16090.50390625,
+    "coverage": 2.586739526411658
+  },
+  {
+    "step": 4,
+    "filename": "lush_rush.png",
+    "translation": [
+      623,
+      567
+    ],
+    "rotation": 160.5424169817091,
+    "mse_score": -15902.251953125,
+    "coverage": 3.4488160291438983
+  },
+  {
+    "step": 5,
+    "filename": "tomsoup.png",
+    "translation": [
+      427,
+      1694
+    ],
+    "rotation": 178.5339669108377,
+    "mse_score": -15751.5205078125,
+    "coverage": 4.276502732240437
+  },
+  {
+    "step": 6,
+    "filename": "tomsoup.png",
+    "translation": [
+      621,
+      956
+    ],
+    "rotation": 304.64739397248593,
+    "mse_score": -15576.423828125,
+    "coverage": 5.13879781420765
+  },
+  {
+    "step": 7,
+    "filename": "fanta.png",
+    "translation": [
+      1024,
+      977
+    ],
+    "rotation": 185.32040705167017,
+    "mse_score": -15425.595703125,
+    "coverage": 6.001165755919854
+  },
+  {
+    "step": 8,
+    "filename": "hard_core.png",
+    "translation": [
+      1240,
+      143
+    ],
+    "rotation": 176.1032152460711,
+    "mse_score": -15228.638671875,
+    "coverage": 6.863606557377048
+  },
+  {
+    "step": 9,
+    "filename": "hard_core.png",
+    "translation": [
+      1235,
+      268
+    ],
+    "rotation": 20.15589700936601,
+    "mse_score": -15048.169921875,
+    "coverage": 7.725828779599271
+  },
+  {
+    "step": 10,
+    "filename": "salmon.png",
+    "translation": [
+      663,
+      1548
+    ],
+    "rotation": 291.2134893694978,
+    "mse_score": -14867.51171875,
+    "coverage": 8.431657559198543
+  },
+  {
+    "step": 11,
+    "filename": "apple cola.png",
+    "translation": [
+      299,
+      1166
+    ],
+    "rotation": 268.39123568142685,
+    "mse_score": -14694.6884765625,
+    "coverage": 9.293806921675774
+  },
+  {
+    "step": 12,
+    "filename": "tomsoup.png",
+    "translation": [
+      799,
+      565
+    ],
+    "rotation": 232.1400998272244,
+    "mse_score": -14519.46484375,
+    "coverage": 10.095737704918033
+  },
+  {
+    "step": 13,
+    "filename": "hard_core.png",
+    "translation": [
+      1149,
+      1212
+    ],
+    "rotation": 351.5321261749486,
+    "mse_score": -14370.2470703125,
+    "coverage": 10.957959927140255
+  },
+  {
+    "step": 14,
+    "filename": "hard_core.png",
+    "translation": [
+      213,
+      1016
+    ],
+    "rotation": 41.12856274805037,
+    "mse_score": -14223.3095703125,
+    "coverage": 11.748597449908925
+  },
+  {
+    "step": 15,
+    "filename": "pepsi.png",
+    "translation": [
+      1168,
+      1535
+    ],
+    "rotation": 279.8739783996694,
+    "mse_score": -14068.7060546875,
+    "coverage": 12.610819672131148
+  },
+  {
+    "step": 16,
+    "filename": "lush_rush.png",
+    "translation": [
+      713,
+      278
+    ],
+    "rotation": 38.595021037708904,
+    "mse_score": -13950.2880859375,
+    "coverage": 13.472896174863388
+  },
+  {
+    "step": 17,
+    "filename": "coffee.png",
+    "translation": [
+      163,
+      483
+    ],
+    "rotation": 154.99809407075787,
+    "mse_score": -13787.91796875,
+    "coverage": 14.33504553734062
+  },
+  {
+    "step": 18,
+    "filename": "tomsoup.png",
+    "translation": [
+      47,
+      73
+    ],
+    "rotation": 119.08452100739196,
+    "mse_score": -13660.2333984375,
+    "coverage": 15.197267759562841
+  },
+  {
+    "step": 19,
+    "filename": "hard_core.png",
+    "translation": [
+      567,
+      1372
+    ],
+    "rotation": 10.89224018110206,
+    "mse_score": -13496.9404296875,
+    "coverage": 16.059562841530052
+  },
+  {
+    "step": 20,
+    "filename": "salmon.png",
+    "translation": [
+      1189,
+      519
+    ],
+    "rotation": 223.40635055999718,
+    "mse_score": -13363.357421875,
+    "coverage": 16.921785063752274
+  },
+  {
+    "step": 21,
+    "filename": "tomsoup.png",
+    "translation": [
+      879,
+      814
+    ],
+    "rotation": 44.88319345155241,
+    "mse_score": -13235.73046875,
+    "coverage": 17.784772313296905
+  },
+  {
+    "step": 22,
+    "filename": "pepsi.png",
+    "translation": [
+      1234,
+      386
+    ],
+    "rotation": 20.136595453940934,
+    "mse_score": -13097.767578125,
+    "coverage": 18.645318761384335
+  },
+  {
+    "step": 23,
+    "filename": "clorox.png",
+    "translation": [
+      63,
+      4
+    ],
+    "rotation": 358.8309268562139,
+    "mse_score": -12950.12890625,
+    "coverage": 19.470928961748633
+  },
+  {
+    "step": 24,
+    "filename": "fanta.png",
+    "translation": [
+      987,
+      118
+    ],
+    "rotation": 229.95576871256992,
+    "mse_score": -12813.1708984375,
+    "coverage": 20.33315118397086
+  },
+  {
+    "step": 25,
+    "filename": "fanta.png",
+    "translation": [
+      196,
+      288
+    ],
+    "rotation": 148.17329248318424,
+    "mse_score": -12690.69140625,
+    "coverage": 21.195373406193077
+  },
+  {
+    "step": 26,
+    "filename": "cambells.png",
+    "translation": [
+      826,
+      1529
+    ],
+    "rotation": 240.44999851562528,
+    "mse_score": -12582.1240234375,
+    "coverage": 22.057413479052823
+  },
+  {
+    "step": 27,
+    "filename": "fanta.png",
+    "translation": [
+      642,
+      202
+    ],
+    "rotation": 83.23597428814509,
+    "mse_score": -12472.8017578125,
+    "coverage": 22.891001821493624
+  },
+  {
+    "step": 28,
+    "filename": "salmon.png",
+    "translation": [
+      760,
+      20
+    ],
+    "rotation": 21.1284803166706,
+    "mse_score": -12351.09375,
+    "coverage": 23.753151183970857
+  },
+  {
+    "step": 29,
+    "filename": "salmon.png",
+    "translation": [
+      229,
+      901
+    ],
+    "rotation": 104.50509218425665,
+    "mse_score": -12223.2177734375,
+    "coverage": 24.37424408014572
+  },
+  {
+    "step": 30,
+    "filename": "lush_rush.png",
+    "translation": [
+      1186,
+      14
+    ],
+    "rotation": 188.8642519310622,
+    "mse_score": -12063.841796875,
+    "coverage": 25.236466302367944
+  },
+  {
+    "step": 31,
+    "filename": "hard_core.png",
+    "translation": [
+      422,
+      101
+    ],
+    "rotation": 55.747196520228115,
+    "mse_score": -11954.8759765625,
+    "coverage": 26.098761384335155
+  },
+  {
+    "step": 32,
+    "filename": "lush_rush.png",
+    "translation": [
+      605,
+      1116
+    ],
+    "rotation": 108.1818659063463,
+    "mse_score": -11830.482421875,
+    "coverage": 26.960182149362478
+  },
+  {
+    "step": 33,
+    "filename": "fanta.png",
+    "translation": [
+      977,
+      1057
+    ],
+    "rotation": 41.24213211103176,
+    "mse_score": -11721.9951171875,
+    "coverage": 27.72167577413479
+  },
+  {
+    "step": 34,
+    "filename": "fanta.png",
+    "translation": [
+      807,
+      1404
+    ],
+    "rotation": 180.8344254408505,
+    "mse_score": -11605.740234375,
+    "coverage": 28.557814207650274
+  },
+  {
+    "step": 35,
+    "filename": "coffee.png",
+    "translation": [
+      885,
+      1181
+    ],
+    "rotation": 126.60709723025337,
+    "mse_score": -11506.6201171875,
+    "coverage": 29.36652094717668
+  },
+  {
+    "step": 36,
+    "filename": "fifty_fest.png",
+    "translation": [
+      519,
+      1336
+    ],
+    "rotation": 281.82987702987543,
+    "mse_score": -11408.6279296875,
+    "coverage": 30.00178506375228
+  },
+  {
+    "step": 37,
+    "filename": "fanta.png",
+    "translation": [
+      243,
+      1249
+    ],
+    "rotation": 105.54480784468518,
+    "mse_score": -11295.6611328125,
+    "coverage": 30.528051001821492
+  },
+  {
+    "step": 38,
+    "filename": "tomsoup.png",
+    "translation": [
+      704,
+      499
+    ],
+    "rotation": 170.78848274813518,
+    "mse_score": -11169.24609375,
+    "coverage": 31.316502732240437
+  },
+  {
+    "step": 39,
+    "filename": "lush_rush.png",
+    "translation": [
+      531,
+      756
+    ],
+    "rotation": 45.198433069564345,
+    "mse_score": -11060.044921875,
+    "coverage": 32.17872495446266
+  },
+  {
+    "step": 40,
+    "filename": "hard_core.png",
+    "translation": [
+      1206,
+      893
+    ],
+    "rotation": 324.48725416314744,
+    "mse_score": -10963.3369140625,
+    "coverage": 32.97078324225865
+  },
+  {
+    "step": 41,
+    "filename": "tomato.png",
+    "translation": [
+      0,
+      259
+    ],
+    "rotation": 270.53750875707897,
+    "mse_score": -10841.7900390625,
+    "coverage": 33.83300546448088
+  },
+  {
+    "step": 42,
+    "filename": "flippiest.png",
+    "translation": [
+      1010,
+      251
+    ],
+    "rotation": 33.609388467896366,
+    "mse_score": -10709.9814453125,
+    "coverage": 34.68426229508197
+  },
+  {
+    "step": 43,
+    "filename": "fanta.png",
+    "translation": [
+      10,
+      300
+    ],
+    "rotation": 78.38459762722482,
+    "mse_score": -10593.3046875,
+    "coverage": 35.11143897996357
+  },
+  {
+    "step": 44,
+    "filename": "clorox.png",
+    "translation": [
+      1303,
+      1384
+    ],
+    "rotation": 105.72840961029644,
+    "mse_score": -10492.365234375,
+    "coverage": 35.973734061930784
+  },
+  {
+    "step": 45,
+    "filename": "lush_rush.png",
+    "translation": [
+      336,
+      465
+    ],
+    "rotation": 337.1352922312041,
+    "mse_score": -10389.892578125,
+    "coverage": 36.78615664845173
+  },
+  {
+    "step": 46,
+    "filename": "hard_core.png",
+    "translation": [
+      58,
+      653
+    ],
+    "rotation": 274.46195270273694,
+    "mse_score": -10297.1796875,
+    "coverage": 37.64837887067395
+  },
+  {
+    "step": 47,
+    "filename": "tomato.png",
+    "translation": [
+      902,
+      640
+    ],
+    "rotation": 205.3767220972881,
+    "mse_score": -10201.26953125,
+    "coverage": 38.485318761384335
+  },
+  {
+    "step": 48,
+    "filename": "coffee.png",
+    "translation": [
+      1255,
+      731
+    ],
+    "rotation": 300.27753391187593,
+    "mse_score": -10107.2939453125,
+    "coverage": 39.33992714025501
+  },
+  {
+    "step": 49,
+    "filename": "coffee.png",
+    "translation": [
+      6,
+      88
+    ],
+    "rotation": 268.13896936881537,
+    "mse_score": -10023.2880859375,
+    "coverage": 39.77697632058288
+  },
+  {
+    "step": 50,
+    "filename": "hard_core.png",
+    "translation": [
+      1087,
+      1585
+    ],
+    "rotation": 204.85599994525532,
+    "mse_score": -9911.025390625,
+    "coverage": 40.284335154826955
+  },
+  {
+    "step": 51,
+    "filename": "lush_rush.png",
+    "translation": [
+      349,
+      173
+    ],
+    "rotation": 255.8649553001167,
+    "mse_score": -9830.2119140625,
+    "coverage": 40.86670309653916
+  },
+  {
+    "step": 52,
+    "filename": "coffee.png",
+    "translation": [
+      510,
+      1101
+    ],
+    "rotation": 98.88341158450604,
+    "mse_score": -9726.044921875,
+    "coverage": 41.69989071038251
+  },
+  {
+    "step": 53,
+    "filename": "flippiest.png",
+    "translation": [
+      479,
+      38
+    ],
+    "rotation": 3.502054722068517,
+    "mse_score": -9641.9609375,
+    "coverage": 42.48805100182149
+  },
+  {
+    "step": 54,
+    "filename": "coffee.png",
+    "translation": [
+      754,
+      866
+    ],
+    "rotation": 94.62584511842701,
+    "mse_score": -9559.40625,
+    "coverage": 42.91803278688525
+  },
+  {
+    "step": 55,
+    "filename": "coffee.png",
+    "translation": [
+      490,
+      311
+    ],
+    "rotation": 150.15692166333807,
+    "mse_score": -9485.08203125,
+    "coverage": 43.605100182149364
+  },
+  {
+    "step": 56,
+    "filename": "pepsi.png",
+    "translation": [
+      1356,
+      1347
+    ],
+    "rotation": 276.75334169616747,
+    "mse_score": -9408.201171875,
+    "coverage": 44.05347905282331
+  },
+  {
+    "step": 57,
+    "filename": "lush_rush.png",
+    "translation": [
+      754,
+      1057
+    ],
+    "rotation": 58.185075656217535,
+    "mse_score": -9317.6767578125,
+    "coverage": 44.89045537340619
+  },
+  {
+    "step": 58,
+    "filename": "hard_core.png",
+    "translation": [
+      958,
+      1484
+    ],
+    "rotation": 68.97970143050658,
+    "mse_score": -9230.521484375,
+    "coverage": 45.70094717668488
+  },
+  {
+    "step": 59,
+    "filename": "coke.png",
+    "translation": [
+      1189,
+      196
+    ],
+    "rotation": 162.5933396014667,
+    "mse_score": -9132.8193359375,
+    "coverage": 46.206338797814205
+  },
+  {
+    "step": 60,
+    "filename": "salmon.png",
+    "translation": [
+      507,
+      637
+    ],
+    "rotation": 30.198237900918915,
+    "mse_score": -9044.603515625,
+    "coverage": 46.9703825136612
+  },
+  {
+    "step": 61,
+    "filename": "hard_core.png",
+    "translation": [
+      116,
+      606
+    ],
+    "rotation": 59.12134627889075,
+    "mse_score": -8966.466796875,
+    "coverage": 47.73322404371585
+  },
+  {
+    "step": 62,
+    "filename": "lush_rush.png",
+    "translation": [
+      424,
+      1445
+    ],
+    "rotation": 226.19351285958678,
+    "mse_score": -8899.9716796875,
+    "coverage": 48.12593806921676
+  },
+  {
+    "step": 63,
+    "filename": "lush_rush.png",
+    "translation": [
+      300,
+      654
+    ],
+    "rotation": 103.54245990990334,
+    "mse_score": -8821.0615234375,
+    "coverage": 48.972204007285974
+  },
+  {
+    "step": 64,
+    "filename": "hard_core.png",
+    "translation": [
+      1163,
+      1130
+    ],
+    "rotation": 339.8877621691839,
+    "mse_score": -8734.9345703125,
+    "coverage": 49.294244080145724
+  },
+  {
+    "step": 65,
+    "filename": "hard_core.png",
+    "translation": [
+      1051,
+      345
+    ],
+    "rotation": 198.80189867796335,
+    "mse_score": -8677.5283203125,
+    "coverage": 49.871803278688525
+  },
+  {
+    "step": 66,
+    "filename": "lush_rush.png",
+    "translation": [
+      386,
+      629
+    ],
+    "rotation": 193.50128309816128,
+    "mse_score": -8597.7822265625,
+    "coverage": 50.57526411657559
+  },
+  {
+    "step": 67,
+    "filename": "flippiest.png",
+    "translation": [
+      702,
+      35
+    ],
+    "rotation": 273.16295409348726,
+    "mse_score": -8524.8349609375,
+    "coverage": 51.13256830601093
+  },
+  {
+    "step": 68,
+    "filename": "hard_core.png",
+    "translation": [
+      811,
+      125
+    ],
+    "rotation": 201.3511098476324,
+    "mse_score": -8428.0390625,
+    "coverage": 51.99020036429872
+  },
+  {
+    "step": 69,
+    "filename": "lush_rush.png",
+    "translation": [
+      114,
+      374
+    ],
+    "rotation": 165.58529391485513,
+    "mse_score": -8331.490234375,
+    "coverage": 52.71781420765027
+  },
+  {
+    "step": 70,
+    "filename": "coffee.png",
+    "translation": [
+      715,
+      373
+    ],
+    "rotation": 200.35093737301926,
+    "mse_score": -8255.7509765625,
+    "coverage": 53.22364298724954
+  },
+  {
+    "step": 71,
+    "filename": "flippiest.png",
+    "translation": [
+      552,
+      1485
+    ],
+    "rotation": 193.4853793557416,
+    "mse_score": -8181.75048828125,
+    "coverage": 53.66837887067395
+  },
+  {
+    "step": 72,
+    "filename": "beijing_corn.png",
+    "translation": [
+      181,
+      1707
+    ],
+    "rotation": 5.726031837258212,
+    "mse_score": -8126.46826171875,
+    "coverage": 54.52673952641166
+  },
+  {
+    "step": 73,
+    "filename": "fanta.png",
+    "translation": [
+      940,
+      876
+    ],
+    "rotation": 30.60245100194747,
+    "mse_score": -8050.8310546875,
+    "coverage": 55.10276867030966
+  },
+  {
+    "step": 74,
+    "filename": "tomsoup.png",
+    "translation": [
+      679,
+      797
+    ],
+    "rotation": 229.60893338403542,
+    "mse_score": -7974.97900390625,
+    "coverage": 55.4112568306011
+  },
+  {
+    "step": 75,
+    "filename": "lush_rush.png",
+    "translation": [
+      1046,
+      726
+    ],
+    "rotation": 180.75322324313484,
+    "mse_score": -7914.234375,
+    "coverage": 56.067723132969036
+  },
+  {
+    "step": 76,
+    "filename": "lush_rush.png",
+    "translation": [
+      1229,
+      1648
+    ],
+    "rotation": 161.99180293845694,
+    "mse_score": -7856.45703125,
+    "coverage": 56.70287795992714
+  },
+  {
+    "step": 77,
+    "filename": "coffee.png",
+    "translation": [
+      782,
+      721
+    ],
+    "rotation": 172.53101869080186,
+    "mse_score": -7803.20458984375,
+    "coverage": 56.98291438979963
+  },
+  {
+    "step": 78,
+    "filename": "flippiest.png",
+    "translation": [
+      109,
+      328
+    ],
+    "rotation": 261.36995686921045,
+    "mse_score": -7749.17041015625,
+    "coverage": 57.333734061930784
+  },
+  {
+    "step": 79,
+    "filename": "new generic.png",
+    "translation": [
+      695,
+      1275
+    ],
+    "rotation": 345.5249253844615,
+    "mse_score": -7674.923828125,
+    "coverage": 57.954098360655735
+  },
+  {
+    "step": 80,
+    "filename": "hard_core.png",
+    "translation": [
+      340,
+      866
+    ],
+    "rotation": 198.00747583663835,
+    "mse_score": -7620.154296875,
+    "coverage": 58.69639344262295
+  },
+  {
+    "step": 81,
+    "filename": "coffee.png",
+    "translation": [
+      850,
+      1676
+    ],
+    "rotation": 345.9875435037251,
+    "mse_score": -7560.748046875,
+    "coverage": 59.22925318761384
+  },
+  {
+    "step": 82,
+    "filename": "salmon.png",
+    "translation": [
+      935,
+      45
+    ],
+    "rotation": 22.161758499388355,
+    "mse_score": -7502.53369140625,
+    "coverage": 59.758724954462664
+  },
+  {
+    "step": 83,
+    "filename": "coffee.png",
+    "translation": [
+      1035,
+      569
+    ],
+    "rotation": 175.40845325035136,
+    "mse_score": -7440.33544921875,
+    "coverage": 60.44178506375227
+  },
+  {
+    "step": 84,
+    "filename": "soda.png",
+    "translation": [
+      155,
+      130
+    ],
+    "rotation": 342.07325530669414,
+    "mse_score": -7385.85205078125,
+    "coverage": 61.15715846994535
+  },
+  {
+    "step": 85,
+    "filename": "coffee.png",
+    "translation": [
+      1229,
+      520
+    ],
+    "rotation": 303.46989822876867,
+    "mse_score": -7329.47216796875,
+    "coverage": 61.5935519125683
+  },
+  {
+    "step": 86,
+    "filename": "cambells.png",
+    "translation": [
+      515,
+      970
+    ],
+    "rotation": 294.9529435612671,
+    "mse_score": -7285.52685546875,
+    "coverage": 62.095701275045535
+  },
+  {
+    "step": 87,
+    "filename": "hard_core.png",
+    "translation": [
+      1149,
+      1450
+    ],
+    "rotation": 132.66124105526194,
+    "mse_score": -7233.228515625,
+    "coverage": 62.57242258652095
+  },
+  {
+    "step": 88,
+    "filename": "hard_core.png",
+    "translation": [
+      240,
+      1539
+    ],
+    "rotation": 160.17188015151407,
+    "mse_score": -7185.0380859375,
+    "coverage": 63.306484517304185
+  },
+  {
+    "step": 89,
+    "filename": "clorox.png",
+    "translation": [
+      549,
+      182
+    ],
+    "rotation": 146.19072486113956,
+    "mse_score": -7136.716796875,
+    "coverage": 63.73227686703097
+  },
+  {
+    "step": 90,
+    "filename": "clorox.png",
+    "translation": [
+      6,
+      1579
+    ],
+    "rotation": 164.42792573761068,
+    "mse_score": -7089.4404296875,
+    "coverage": 64.58604735883424
+  },
+  {
+    "step": 91,
+    "filename": "lush_rush.png",
+    "translation": [
+      1369,
+      68
+    ],
+    "rotation": 277.27559600300543,
+    "mse_score": -7035.71630859375,
+    "coverage": 64.84841530054645
+  },
+  {
+    "step": 92,
+    "filename": "clorox.png",
+    "translation": [
+      402,
+      714
+    ],
+    "rotation": 339.6500237685435,
+    "mse_score": -6992.466796875,
+    "coverage": 65.24061930783243
+  },
+  {
+    "step": 93,
+    "filename": "clorox.png",
+    "translation": [
+      922,
+      1403
+    ],
+    "rotation": 19.70042040020333,
+    "mse_score": -6943.8681640625,
+    "coverage": 65.75260473588342
+  },
+  {
+    "step": 94,
+    "filename": "tomsoup.png",
+    "translation": [
+      941,
+      1114
+    ],
+    "rotation": 356.584353623213,
+    "mse_score": -6902.65625,
+    "coverage": 66.07737704918033
+  },
+  {
+    "step": 95,
+    "filename": "salmon.png",
+    "translation": [
+      454,
+      1573
+    ],
+    "rotation": 82.0081382869606,
+    "mse_score": -6857.74755859375,
+    "coverage": 66.21883424408014
+  },
+  {
+    "step": 96,
+    "filename": "clorox.png",
+    "translation": [
+      352,
+      1027
+    ],
+    "rotation": 239.71029973503994,
+    "mse_score": -6792.74169921875,
+    "coverage": 66.93792349726776
+  },
+  {
+    "step": 97,
+    "filename": "flippiest.png",
+    "translation": [
+      1098,
+      796
+    ],
+    "rotation": 163.43578369113314,
+    "mse_score": -6741.7353515625,
+    "coverage": 67.52670309653917
+  },
+  {
+    "step": 98,
+    "filename": "hard_core.png",
+    "translation": [
+      82,
+      757
+    ],
+    "rotation": 44.3209146035918,
+    "mse_score": -6691.6787109375,
+    "coverage": 68.22619307832423
+  },
+  {
+    "step": 99,
+    "filename": "fanta.png",
+    "translation": [
+      1021,
+      1136
+    ],
+    "rotation": 248.75906600169256,
+    "mse_score": -6660.12060546875,
+    "coverage": 68.61504553734062
+  },
+  {
+    "step": 100,
+    "filename": "hard_core.png",
+    "translation": [
+      1088,
+      389
+    ],
+    "rotation": 202.2343742064331,
+    "mse_score": -6597.90625,
+    "coverage": 68.95613843351548
+  },
+  {
+    "step": 101,
+    "filename": "vodka soda.png",
+    "translation": [
+      1367,
+      635
+    ],
+    "rotation": 289.1670803719644,
+    "mse_score": -6569.3369140625,
+    "coverage": 69.29989071038251
+  },
+  {
+    "step": 102,
+    "filename": "lush_rush.png",
+    "translation": [
+      1231,
+      1262
+    ],
+    "rotation": 198.93863451407975,
+    "mse_score": -6507.27099609375,
+    "coverage": 69.91020036429873
+  },
+  {
+    "step": 103,
+    "filename": "soda.png",
+    "translation": [
+      17,
+      913
+    ],
+    "rotation": 285.376683129704,
+    "mse_score": -6470.10498046875,
+    "coverage": 70.73340619307832
+  },
+  {
+    "step": 104,
+    "filename": "coffee.png",
+    "translation": [
+      203,
+      1458
+    ],
+    "rotation": 332.5938796752566,
+    "mse_score": -6441.35986328125,
+    "coverage": 71.25752276867031
+  },
+  {
+    "step": 105,
+    "filename": "hard_core.png",
+    "translation": [
+      470,
+      1711
+    ],
+    "rotation": 359.5816220258857,
+    "mse_score": -6395.50927734375,
+    "coverage": 71.43799635701275
+  },
+  {
+    "step": 106,
+    "filename": "hard_core.png",
+    "translation": [
+      324,
+      91
+    ],
+    "rotation": 173.52863933329184,
+    "mse_score": -6356.46142578125,
+    "coverage": 71.96418943533698
+  },
+  {
+    "step": 107,
+    "filename": "fanta.png",
+    "translation": [
+      770,
+      1497
+    ],
+    "rotation": 162.42404495423142,
+    "mse_score": -6322.833984375,
+    "coverage": 72.39151183970856
+  },
+  {
+    "step": 108,
+    "filename": "clorox.png",
+    "translation": [
+      523,
+      433
+    ],
+    "rotation": 329.5528446406274,
+    "mse_score": -6286.88720703125,
+    "coverage": 72.94772313296903
+  },
+  {
+    "step": 109,
+    "filename": "lush_rush.png",
+    "translation": [
+      98,
+      34
+    ],
+    "rotation": 198.53201344214534,
+    "mse_score": -6257.45556640625,
+    "coverage": 73.27814207650273
+  },
+  {
+    "step": 110,
+    "filename": "oj.png",
+    "translation": [
+      79,
+      1000
+    ],
+    "rotation": 242.50132852630531,
+    "mse_score": -6234.7236328125,
+    "coverage": 74.02411657559198
+  },
+  {
+    "step": 111,
+    "filename": "hard_core.png",
+    "translation": [
+      270,
+      137
+    ],
+    "rotation": 216.95966715908085,
+    "mse_score": -6202.24267578125,
+    "coverage": 74.20531876138433
+  },
+  {
+    "step": 112,
+    "filename": "flippiest.png",
+    "translation": [
+      44,
+      1165
+    ],
+    "rotation": 115.6696682474796,
+    "mse_score": -6172.68896484375,
+    "coverage": 74.9081238615665
+  },
+  {
+    "step": 113,
+    "filename": "fanta.png",
+    "translation": [
+      567,
+      882
+    ],
+    "rotation": 64.43465346116255,
+    "mse_score": -6142.345703125,
+    "coverage": 75.11613843351547
+  },
+  {
+    "step": 114,
+    "filename": "coffee.png",
+    "translation": [
+      14,
+      572
+    ],
+    "rotation": 324.5394165223185,
+    "mse_score": -6103.85009765625,
+    "coverage": 75.49111111111111
+  },
+  {
+    "step": 115,
+    "filename": "strawberry_juice.png",
+    "translation": [
+      421,
+      1141
+    ],
+    "rotation": 274.0656248940266,
+    "mse_score": -6072.2099609375,
+    "coverage": 76.07056466302367
+  },
+  {
+    "step": 116,
+    "filename": "coffee.png",
+    "translation": [
+      850,
+      888
+    ],
+    "rotation": 273.93881465521383,
+    "mse_score": -6037.296875,
+    "coverage": 76.29304189435338
+  },
+  {
+    "step": 117,
+    "filename": "hard_core.png",
+    "translation": [
+      956,
+      175
+    ],
+    "rotation": 26.074582139134968,
+    "mse_score": -5997.18701171875,
+    "coverage": 76.54451730418943
+  },
+  {
+    "step": 118,
+    "filename": "hard_core.png",
+    "translation": [
+      890,
+      1031
+    ],
+    "rotation": 338.60272331363683,
+    "mse_score": -5965.578125,
+    "coverage": 76.73639344262295
+  },
+  {
+    "step": 119,
+    "filename": "strawberry_juice.png",
+    "translation": [
+      179,
+      1513
+    ],
+    "rotation": 137.40416752670066,
+    "mse_score": -5942.49169921875,
+    "coverage": 77.07712204007287
+  },
+  {
+    "step": 120,
+    "filename": "hard_core.png",
+    "translation": [
+      1242,
+      1689
+    ],
+    "rotation": 169.58796197107148,
+    "mse_score": -5900.45751953125,
+    "coverage": 77.27340619307832
+  },
+  {
+    "step": 121,
+    "filename": "tomsoup.png",
+    "translation": [
+      1182,
+      98
+    ],
+    "rotation": 0.8851590433696366,
+    "mse_score": -5859.47216796875,
+    "coverage": 77.45041894353369
+  },
+  {
+    "step": 122,
+    "filename": "soda.png",
+    "translation": [
+      915,
+      359
+    ],
+    "rotation": 296.3421990915682,
+    "mse_score": -5829.15478515625,
+    "coverage": 78.14947176684882
+  },
+  {
+    "step": 123,
+    "filename": "lush_rush.png",
+    "translation": [
+      1084,
+      1336
+    ],
+    "rotation": 284.3513898966932,
+    "mse_score": -5802.080078125,
+    "coverage": 78.52178506375228
+  },
+  {
+    "step": 124,
+    "filename": "pepsi.png",
+    "translation": [
+      1120,
+      976
+    ],
+    "rotation": 330.6698364421841,
+    "mse_score": -5761.263671875,
+    "coverage": 78.69883424408015
+  },
+  {
+    "step": 125,
+    "filename": "fanta.png",
+    "translation": [
+      1,
+      487
+    ],
+    "rotation": 272.08587695584237,
+    "mse_score": -5735.921875,
+    "coverage": 79.05413479052822
+  },
+  {
+    "step": 126,
+    "filename": "tomsoup.png",
+    "translation": [
+      1117,
+      175
+    ],
+    "rotation": 26.086285193441054,
+    "mse_score": -5714.3037109375,
+    "coverage": 79.05777777777779
+  },
+  {
+    "step": 127,
+    "filename": "beijing_corn.png",
+    "translation": [
+      1307,
+      1484
+    ],
+    "rotation": 289.9666570605051,
+    "mse_score": -5690.28076171875,
+    "coverage": 79.35930783242259
+  },
+  {
+    "step": 128,
+    "filename": "hard_core.png",
+    "translation": [
+      517,
+      1303
+    ],
+    "rotation": 15.609718083859354,
+    "mse_score": -5663.34521484375,
+    "coverage": 79.52772313296903
+  },
+  {
+    "step": 129,
+    "filename": "lush_rush.png",
+    "translation": [
+      167,
+      96
+    ],
+    "rotation": 253.83539287981318,
+    "mse_score": -5640.29248046875,
+    "coverage": 79.6623679417122
+  },
+  {
+    "step": 130,
+    "filename": "fanta.png",
+    "translation": [
+      1230,
+      458
+    ],
+    "rotation": 164.57580176884946,
+    "mse_score": -5610.068359375,
+    "coverage": 79.97096539162114
+  },
+  {
+    "step": 131,
+    "filename": "fanta.png",
+    "translation": [
+      688,
+      13
+    ],
+    "rotation": 64.39950939365801,
+    "mse_score": -5587.4951171875,
+    "coverage": 80.10510018214936
+  },
+  {
+    "step": 132,
+    "filename": "salmon.png",
+    "translation": [
+      857,
+      897
+    ],
+    "rotation": 348.859259948341,
+    "mse_score": -5565.00732421875,
+    "coverage": 80.10546448087432
+  },
+  {
+    "step": 133,
+    "filename": "salmon.png",
+    "translation": [
+      448,
+      1543
+    ],
+    "rotation": 351.76416468880194,
+    "mse_score": -5543.83447265625,
+    "coverage": 80.13595628415301
+  },
+  {
+    "step": 134,
+    "filename": "hard_core.png",
+    "translation": [
+      925,
+      23
+    ],
+    "rotation": 342.4276383028192,
+    "mse_score": -5519.02685546875,
+    "coverage": 80.25457194899818
+  },
+  {
+    "step": 135,
+    "filename": "hard_core.png",
+    "translation": [
+      519,
+      592
+    ],
+    "rotation": 112.3785013809104,
+    "mse_score": -5491.9501953125,
+    "coverage": 80.34947176684881
+  },
+  {
+    "step": 136,
+    "filename": "salmon.png",
+    "translation": [
+      13,
+      414
+    ],
+    "rotation": 326.194181211555,
+    "mse_score": -5474.712890625,
+    "coverage": 80.43460837887068
+  },
+  {
+    "step": 137,
+    "filename": "coffee.png",
+    "translation": [
+      765,
+      506
+    ],
+    "rotation": 260.475534165142,
+    "mse_score": -5446.97021484375,
+    "coverage": 80.53089253187615
+  },
+  {
+    "step": 138,
+    "filename": "coffee.png",
+    "translation": [
+      1092,
+      586
+    ],
+    "rotation": 210.04344442164685,
+    "mse_score": -5427.5537109375,
+    "coverage": 80.62754098360656
+  },
+  {
+    "step": 139,
+    "filename": "hard_core.png",
+    "translation": [
+      707,
+      430
+    ],
+    "rotation": 14.337761403844933,
+    "mse_score": -5406.53857421875,
+    "coverage": 80.77107468123862
+  },
+  {
+    "step": 140,
+    "filename": "lush_rush.png",
+    "translation": [
+      593,
+      793
+    ],
+    "rotation": 22.784920912886932,
+    "mse_score": -5391.826171875,
+    "coverage": 80.91566484517304
+  },
+  {
+    "step": 141,
+    "filename": "clorox.png",
+    "translation": [
+      780,
+      1256
+    ],
+    "rotation": 167.8829849579774,
+    "mse_score": -5372.4384765625,
+    "coverage": 81.1080510018215
+  },
+  {
+    "step": 142,
+    "filename": "coffee.png",
+    "translation": [
+      149,
+      746
+    ],
+    "rotation": 44.45679282194289,
+    "mse_score": -5357.3583984375,
+    "coverage": 81.387941712204
+  },
+  {
+    "step": 143,
+    "filename": "lush_rush.png",
+    "translation": [
+      816,
+      15
+    ],
+    "rotation": 70.45733086072552,
+    "mse_score": -5341.0146484375,
+    "coverage": 81.52622950819672
+  },
+  {
+    "step": 144,
+    "filename": "lush_rush.png",
+    "translation": [
+      577,
+      73
+    ],
+    "rotation": 130.69662501223587,
+    "mse_score": -5319.6455078125,
+    "coverage": 81.73606557377049
+  },
+  {
+    "step": 145,
+    "filename": "strawberry_juice.png",
+    "translation": [
+      6,
+      1354
+    ],
+    "rotation": 93.10070864555544,
+    "mse_score": -5293.01416015625,
+    "coverage": 82.56597449908925
+  },
+  {
+    "step": 146,
+    "filename": "clorox.png",
+    "translation": [
+      320,
+      887
+    ],
+    "rotation": 23.874143093933633,
+    "mse_score": -5275.54296875,
+    "coverage": 82.72233151183971
+  },
+  {
+    "step": 147,
+    "filename": "hard_core.png",
+    "translation": [
+      1096,
+      1413
+    ],
+    "rotation": 87.90026161369997,
+    "mse_score": -5248.68603515625,
+    "coverage": 82.943970856102
+  },
+  {
+    "step": 148,
+    "filename": "salmon.png",
+    "translation": [
+      706,
+      511
+    ],
+    "rotation": 231.5579568108242,
+    "mse_score": -5235.12158203125,
+    "coverage": 82.9711111111111
+  },
+  {
+    "step": 149,
+    "filename": "salmon.png",
+    "translation": [
+      542,
+      952
+    ],
+    "rotation": 356.7162641466493,
+    "mse_score": -5215.90087890625,
+    "coverage": 82.98735883424409
+  },
+  {
+    "step": 150,
+    "filename": "hard_core.png",
+    "translation": [
+      1335,
+      1166
+    ],
+    "rotation": 271.84201115462287,
+    "mse_score": -5195.1748046875,
+    "coverage": 83.10765027322404
+  },
+  {
+    "step": 151,
+    "filename": "vodka soda.png",
+    "translation": [
+      1098,
+      1198
+    ],
+    "rotation": 288.78253930924035,
+    "mse_score": -5178.52880859375,
+    "coverage": 83.29559198542805
+  },
+  {
+    "step": 152,
+    "filename": "coffee.png",
+    "translation": [
+      1229,
+      926
+    ],
+    "rotation": 356.448589657869,
+    "mse_score": -5156.58642578125,
+    "coverage": 83.47675774134791
+  },
+  {
+    "step": 153,
+    "filename": "hard_core.png",
+    "translation": [
+      262,
+      66
+    ],
+    "rotation": 238.64022569054086,
+    "mse_score": -5146.109375,
+    "coverage": 83.52495446265938
+  },
+  {
+    "step": 154,
+    "filename": "coffee.png",
+    "translation": [
+      287,
+      1255
+    ],
+    "rotation": 242.5314421673961,
+    "mse_score": -5125.591796875,
+    "coverage": 83.78102003642988
+  },
+  {
+    "step": 155,
+    "filename": "lush_rush.png",
+    "translation": [
+      297,
+      550
+    ],
+    "rotation": 52.02895324184914,
+    "mse_score": -5109.36669921875,
+    "coverage": 84.01712204007285
+  },
+  {
+    "step": 156,
+    "filename": "hard_core.png",
+    "translation": [
+      1233,
+      477
+    ],
+    "rotation": 142.97356052495562,
+    "mse_score": -5083.82080078125,
+    "coverage": 84.17012750455373
+  },
+  {
+    "step": 157,
+    "filename": "coffee.png",
+    "translation": [
+      820,
+      1165
+    ],
+    "rotation": 75.05792408482205,
+    "mse_score": -5063.25048828125,
+    "coverage": 84.24692167577413
+  },
+  {
+    "step": 158,
+    "filename": "hard_core.png",
+    "translation": [
+      848,
+      512
+    ],
+    "rotation": 320.20053644101586,
+    "mse_score": -5044.19140625,
+    "coverage": 84.3944626593807
+  },
+  {
+    "step": 159,
+    "filename": "salmon.png",
+    "translation": [
+      1134,
+      883
+    ],
+    "rotation": 300.251845381442,
+    "mse_score": -5019.958984375,
+    "coverage": 84.49785063752276
+  },
+  {
+    "step": 160,
+    "filename": "fifty_fest.png",
+    "translation": [
+      1086,
+      3
+    ],
+    "rotation": 177.46443986031244,
+    "mse_score": -4984.84765625,
+    "coverage": 84.8697267759563
+  },
+  {
+    "step": 161,
+    "filename": "hard_core.png",
+    "translation": [
+      281,
+      399
+    ],
+    "rotation": 191.5104739574191,
+    "mse_score": -4959.576171875,
+    "coverage": 85.21901639344263
+  },
+  {
+    "step": 162,
+    "filename": "hard_core.png",
+    "translation": [
+      1143,
+      746
+    ],
+    "rotation": 252.09262148418986,
+    "mse_score": -4945.88037109375,
+    "coverage": 85.24378870673954
+  },
+  {
+    "step": 163,
+    "filename": "hard_core.png",
+    "translation": [
+      835,
+      1314
+    ],
+    "rotation": 245.77449984141822,
+    "mse_score": -4923.109375,
+    "coverage": 85.34699453551913
+  },
+  {
+    "step": 164,
+    "filename": "soda.png",
+    "translation": [
+      11,
+      1607
+    ],
+    "rotation": 24.894745490009022,
+    "mse_score": -4899.93994140625,
+    "coverage": 85.75795992714026
+  },
+  {
+    "step": 165,
+    "filename": "hard_core.png",
+    "translation": [
+      102,
+      111
+    ],
+    "rotation": 88.37574348402781,
+    "mse_score": -4879.36962890625,
+    "coverage": 85.8416393442623
+  },
+  {
+    "step": 166,
+    "filename": "salmon.png",
+    "translation": [
+      1236,
+      1064
+    ],
+    "rotation": 175.41254972643694,
+    "mse_score": -4853.21728515625,
+    "coverage": 86.06528233151184
+  },
+  {
+    "step": 167,
+    "filename": "salmon.png",
+    "translation": [
+      702,
+      1688
+    ],
+    "rotation": 6.68229891730344,
+    "mse_score": -4823.7470703125,
+    "coverage": 86.23683060109289
+  },
+  {
+    "step": 168,
+    "filename": "coffee.png",
+    "translation": [
+      1214,
+      315
+    ],
+    "rotation": 158.95533986886824,
+    "mse_score": -4804.80419921875,
+    "coverage": 86.3120218579235
+  },
+  {
+    "step": 169,
+    "filename": "tomsoup.png",
+    "translation": [
+      1287,
+      1353
+    ],
+    "rotation": 239.10742972875548,
+    "mse_score": -4795.2548828125,
+    "coverage": 86.37482695810564
+  },
+  {
+    "step": 170,
+    "filename": "lush_rush.png",
+    "translation": [
+      426,
+      1397
+    ],
+    "rotation": 80.38051363112444,
+    "mse_score": -4763.59814453125,
+    "coverage": 86.79500910746812
+  },
+  {
+    "step": 171,
+    "filename": "lush_rush.png",
+    "translation": [
+      1002,
+      424
+    ],
+    "rotation": 135.27340037273945,
+    "mse_score": -4750.66259765625,
+    "coverage": 86.93635701275045
+  },
+  {
+    "step": 172,
+    "filename": "soda.png",
+    "translation": [
+      53,
+      1398
+    ],
+    "rotation": 208.91428187285052,
+    "mse_score": -4721.43310546875,
+    "coverage": 87.52098360655738
+  },
+  {
+    "step": 173,
+    "filename": "coffee.png",
+    "translation": [
+      1121,
+      1466
+    ],
+    "rotation": 35.842667989994915,
+    "mse_score": -4706.5673828125,
+    "coverage": 87.59409836065574
+  },
+  {
+    "step": 174,
+    "filename": "lush_rush.png",
+    "translation": [
+      309,
+      263
+    ],
+    "rotation": 13.981568691986649,
+    "mse_score": -4690.14013671875,
+    "coverage": 87.68914389799636
+  },
+  {
+    "step": 175,
+    "filename": "soda.png",
+    "translation": [
+      1175,
+      1333
+    ],
+    "rotation": 137.52829526400913,
+    "mse_score": -4675.43017578125,
+    "coverage": 87.90830601092895
+  },
+  {
+    "step": 176,
+    "filename": "vodka soda.png",
+    "translation": [
+      1297,
+      1424
+    ],
+    "rotation": 138.0462716155049,
+    "mse_score": -4660.75048828125,
+    "coverage": 87.97446265938069
+  },
+  {
+    "step": 177,
+    "filename": "lush_rush.png",
+    "translation": [
+      26,
+      695
+    ],
+    "rotation": 94.24873082235537,
+    "mse_score": -4642.9404296875,
+    "coverage": 88.23704918032786
+  },
+  {
+    "step": 178,
+    "filename": "flippiest.png",
+    "translation": [
+      107,
+      1692
+    ],
+    "rotation": 172.40361097198033,
+    "mse_score": -4628.83984375,
+    "coverage": 88.3729326047359
+  },
+  {
+    "step": 179,
+    "filename": "salmon.png",
+    "translation": [
+      655,
+      369
+    ],
+    "rotation": 234.92367259137723,
+    "mse_score": -4617.8115234375,
+    "coverage": 88.37632058287797
+  },
+  {
+    "step": 180,
+    "filename": "pepsi.png",
+    "translation": [
+      1003,
+      1590
+    ],
+    "rotation": 136.5264517853401,
+    "mse_score": -4608.34326171875,
+    "coverage": 88.63009107468123
+  },
+  {
+    "step": 181,
+    "filename": "coffee.png",
+    "translation": [
+      524,
+      1484
+    ],
+    "rotation": 73.73394135150389,
+    "mse_score": -4595.45703125,
+    "coverage": 88.63701275045537
+  },
+  {
+    "step": 182,
+    "filename": "clorox.png",
+    "translation": [
+      1225,
+      699
+    ],
+    "rotation": 329.6737715544993,
+    "mse_score": -4585.91650390625,
+    "coverage": 88.87581056466303
+  },
+  {
+    "step": 183,
+    "filename": "flippiest.png",
+    "translation": [
+      584,
+      1134
+    ],
+    "rotation": 227.22579465134936,
+    "mse_score": -4571.94287109375,
+    "coverage": 89.04280510018215
+  },
+  {
+    "step": 184,
+    "filename": "coffee.png",
+    "translation": [
+      691,
+      1575
+    ],
+    "rotation": 329.33992966673316,
+    "mse_score": -4565.505859375,
+    "coverage": 89.22910746812386
+  },
+  {
+    "step": 185,
+    "filename": "vodka soda.png",
+    "translation": [
+      563,
+      127
+    ],
+    "rotation": 73.47889128002346,
+    "mse_score": -4555.9755859375,
+    "coverage": 89.31081967213115
+  },
+  {
+    "step": 186,
+    "filename": "vodka soda.png",
+    "translation": [
+      492,
+      119
+    ],
+    "rotation": 312.60921160335124,
+    "mse_score": -4550.22705078125,
+    "coverage": 89.31081967213115
+  },
+  {
+    "step": 187,
+    "filename": "coffee.png",
+    "translation": [
+      196,
+      799
+    ],
+    "rotation": 219.8126189918249,
+    "mse_score": -4535.19873046875,
+    "coverage": 89.44998178506374
+  },
+  {
+    "step": 188,
+    "filename": "soda.png",
+    "translation": [
+      343,
+      1364
+    ],
+    "rotation": 70.40977050932689,
+    "mse_score": -4521.22607421875,
+    "coverage": 89.76389799635702
+  },
+  {
+    "step": 189,
+    "filename": "hard_core.png",
+    "translation": [
+      159,
+      470
+    ],
+    "rotation": 318.460039359048,
+    "mse_score": -4505.45458984375,
+    "coverage": 89.79897996357012
+  },
+  {
+    "step": 190,
+    "filename": "hard_core.png",
+    "translation": [
+      924,
+      1136
+    ],
+    "rotation": 357.62982552121673,
+    "mse_score": -4492.4892578125,
+    "coverage": 89.81307832422587
+  },
+  {
+    "step": 191,
+    "filename": "lush_rush.png",
+    "translation": [
+      202,
+      3
+    ],
+    "rotation": 61.34621761466262,
+    "mse_score": -4483.62353515625,
+    "coverage": 89.97468123861566
+  },
+  {
+    "step": 192,
+    "filename": "hard_core.png",
+    "translation": [
+      392,
+      192
+    ],
+    "rotation": 246.24387548222091,
+    "mse_score": -4471.72998046875,
+    "coverage": 90.02040072859745
+  },
+  {
+    "step": 193,
+    "filename": "coffee.png",
+    "translation": [
+      534,
+      997
+    ],
+    "rotation": 49.1133329141634,
+    "mse_score": -4461.7138671875,
+    "coverage": 90.03435336976321
+  },
+  {
+    "step": 194,
+    "filename": "hard_core.png",
+    "translation": [
+      957,
+      1335
+    ],
+    "rotation": 74.41420316771938,
+    "mse_score": -4449.1064453125,
+    "coverage": 90.08418943533698
+  },
+  {
+    "step": 195,
+    "filename": "hard_core.png",
+    "translation": [
+      713,
+      1634
+    ],
+    "rotation": 205.95806848444215,
+    "mse_score": -4431.96435546875,
+    "coverage": 90.10816029143898
+  },
+  {
+    "step": 196,
+    "filename": "soda.png",
+    "translation": [
+      36,
+      1215
+    ],
+    "rotation": 56.24482069606463,
+    "mse_score": -4415.65380859375,
+    "coverage": 90.3846994535519
+  },
+  {
+    "step": 197,
+    "filename": "hard_core.png",
+    "translation": [
+      612,
+      662
+    ],
+    "rotation": 98.52182835683479,
+    "mse_score": -4406.30859375,
+    "coverage": 90.4008014571949
+  },
+  {
+    "step": 198,
+    "filename": "hard_core.png",
+    "translation": [
+      1247,
+      637
+    ],
+    "rotation": 292.73257904267075,
+    "mse_score": -4389.62890625,
+    "coverage": 90.4135154826958
+  },
+  {
+    "step": 199,
+    "filename": "hard_core.png",
+    "translation": [
+      1373,
+      1321
+    ],
+    "rotation": 269.7091989617788,
+    "mse_score": -4375.54833984375,
+    "coverage": 90.43092896174863
+  },
+  {
+    "step": 200,
+    "filename": "salmon.png",
+    "translation": [
+      625,
+      1436
+    ],
+    "rotation": 282.45679794011176,
+    "mse_score": -4365.82275390625,
+    "coverage": 90.46699453551913
+  },
+  {
+    "step": 201,
+    "filename": "lush_rush.png",
+    "translation": [
+      153,
+      574
+    ],
+    "rotation": 115.51240621580958,
+    "mse_score": -4357.068359375,
+    "coverage": 90.63693989071038
+  },
+  {
+    "step": 202,
+    "filename": "arizona.png",
+    "translation": [
+      1117,
+      1717
+    ],
+    "rotation": 170.82048245885665,
+    "mse_score": -4339.3720703125,
+    "coverage": 90.74112932604736
+  },
+  {
+    "step": 203,
+    "filename": "coffee.png",
+    "translation": [
+      28,
+      90
+    ],
+    "rotation": 38.22125436653351,
+    "mse_score": -4321.11083984375,
+    "coverage": 90.74112932604736
+  },
+  {
+    "step": 204,
+    "filename": "clorox.png",
+    "translation": [
+      392,
+      822
+    ],
+    "rotation": 77.23522995265012,
+    "mse_score": -4309.99365234375,
+    "coverage": 90.9856466302368
+  },
+  {
+    "step": 205,
+    "filename": "coffee.png",
+    "translation": [
+      1394,
+      104
+    ],
+    "rotation": 269.2116146500655,
+    "mse_score": -4291.00439453125,
+    "coverage": 91.05336976320582
+  },
+  {
+    "step": 206,
+    "filename": "salmon.png",
+    "translation": [
+      1326,
+      342
+    ],
+    "rotation": 78.47140869365792,
+    "mse_score": -4278.5029296875,
+    "coverage": 91.07045537340619
+  },
+  {
+    "step": 207,
+    "filename": "salmon.png",
+    "translation": [
+      736,
+      599
+    ],
+    "rotation": 183.16288703308723,
+    "mse_score": -4263.01123046875,
+    "coverage": 91.07872495446266
+  },
+  {
+    "step": 208,
+    "filename": "lush_rush.png",
+    "translation": [
+      455,
+      400
+    ],
+    "rotation": 90.98690325031664,
+    "mse_score": -4252.712890625,
+    "coverage": 91.1736612021858
+  },
+  {
+    "step": 209,
+    "filename": "flippiest.png",
+    "translation": [
+      983,
+      1562
+    ],
+    "rotation": 99.37669993304615,
+    "mse_score": -4241.736328125,
+    "coverage": 91.20222222222222
+  },
+  {
+    "step": 210,
+    "filename": "hard_core.png",
+    "translation": [
+      1198,
+      169
+    ],
+    "rotation": 274.0224064026319,
+    "mse_score": -4220.52197265625,
+    "coverage": 91.23344262295082
+  },
+  {
+    "step": 211,
+    "filename": "hard_core.png",
+    "translation": [
+      616,
+      593
+    ],
+    "rotation": 291.9027280034107,
+    "mse_score": -4209.216796875,
+    "coverage": 91.35887067395264
+  },
+  {
+    "step": 212,
+    "filename": "flippiest.png",
+    "translation": [
+      447,
+      949
+    ],
+    "rotation": 166.86050132584995,
+    "mse_score": -4198.162109375,
+    "coverage": 91.40302367941712
+  },
+  {
+    "step": 213,
+    "filename": "vodka soda.png",
+    "translation": [
+      706,
+      1556
+    ],
+    "rotation": 2.2035180094174844,
+    "mse_score": -4183.08447265625,
+    "coverage": 91.46251366120218
+  },
+  {
+    "step": 214,
+    "filename": "vodka soda.png",
+    "translation": [
+      580,
+      1273
+    ],
+    "rotation": 273.8158648439654,
+    "mse_score": -4174.1044921875,
+    "coverage": 91.46251366120218
+  },
+  {
+    "step": 215,
+    "filename": "surge.png",
+    "translation": [
+      1202,
+      1616
+    ],
+    "rotation": 287.022084870079,
+    "mse_score": -4165.86865234375,
+    "coverage": 91.49100182149363
+  },
+  {
+    "step": 216,
+    "filename": "hard_core.png",
+    "translation": [
+      696,
+      1138
+    ],
+    "rotation": 108.23937568180828,
+    "mse_score": -4157.7177734375,
+    "coverage": 91.51092896174863
+  },
+  {
+    "step": 217,
+    "filename": "soda.png",
+    "translation": [
+      101,
+      1499
+    ],
+    "rotation": 87.96853013767823,
+    "mse_score": -4149.7216796875,
+    "coverage": 91.63730418943534
+  },
+  {
+    "step": 218,
+    "filename": "arizona.png",
+    "translation": [
+      1329,
+      1598
+    ],
+    "rotation": 36.54298404362745,
+    "mse_score": -4140.259765625,
+    "coverage": 91.67089253187613
+  },
+  {
+    "step": 219,
+    "filename": "lush_rush.png",
+    "translation": [
+      964,
+      762
+    ],
+    "rotation": 307.9487925920253,
+    "mse_score": -4132.00439453125,
+    "coverage": 91.74174863387978
+  },
+  {
+    "step": 220,
+    "filename": "arizona.png",
+    "translation": [
+      1386,
+      1540
+    ],
+    "rotation": 65.54200890284734,
+    "mse_score": -4116.5771484375,
+    "coverage": 91.81846994535519
+  },
+  {
+    "step": 221,
+    "filename": "hard_core.png",
+    "translation": [
+      891,
+      1560
+    ],
+    "rotation": 234.78521534987593,
+    "mse_score": -4105.10693359375,
+    "coverage": 91.83060109289617
+  },
+  {
+    "step": 222,
+    "filename": "hard_core.png",
+    "translation": [
+      1076,
+      1570
+    ],
+    "rotation": 76.95866813997587,
+    "mse_score": -4094.29150390625,
+    "coverage": 91.90007285974498
+  },
+  {
+    "step": 223,
+    "filename": "vodka soda.png",
+    "translation": [
+      360,
+      1022
+    ],
+    "rotation": 318.04018601374173,
+    "mse_score": -4088.4775390625,
+    "coverage": 91.90058287795992
+  },
+  {
+    "step": 224,
+    "filename": "coffee.png",
+    "translation": [
+      433,
+      1403
+    ],
+    "rotation": 80.0758250660594,
+    "mse_score": -4081.070556640625,
+    "coverage": 91.90058287795992
+  },
+  {
+    "step": 225,
+    "filename": "fanta.png",
+    "translation": [
+      740,
+      95
+    ],
+    "rotation": 189.31123998198765,
+    "mse_score": -4070.20947265625,
+    "coverage": 91.91992714025501
+  },
+  {
+    "step": 226,
+    "filename": "vodka soda.png",
+    "translation": [
+      1365,
+      1175
+    ],
+    "rotation": 74.60055739829727,
+    "mse_score": -4055.52685546875,
+    "coverage": 92.05741347905281
+  },
+  {
+    "step": 227,
+    "filename": "hard_core.png",
+    "translation": [
+      1042,
+      10
+    ],
+    "rotation": 214.6749861247765,
+    "mse_score": -4043.16650390625,
+    "coverage": 92.0656466302368
+  },
+  {
+    "step": 228,
+    "filename": "vodka soda.png",
+    "translation": [
+      837,
+      1596
+    ],
+    "rotation": 94.30844090648476,
+    "mse_score": -4031.701416015625,
+    "coverage": 92.15132969034609
+  },
+  {
+    "step": 229,
+    "filename": "arizona.png",
+    "translation": [
+      1030,
+      748
+    ],
+    "rotation": 247.1871932053812,
+    "mse_score": -4027.737060546875,
+    "coverage": 92.1575227686703
+  },
+  {
+    "step": 230,
+    "filename": "fifty_fest.png",
+    "translation": [
+      543,
+      273
+    ],
+    "rotation": 344.88860857275364,
+    "mse_score": -4021.600830078125,
+    "coverage": 92.2711475409836
+  },
+  {
+    "step": 231,
+    "filename": "coffee.png",
+    "translation": [
+      756,
+      468
+    ],
+    "rotation": 281.41519487300707,
+    "mse_score": -4014.5869140625,
+    "coverage": 92.2711839708561
+  },
+  {
+    "step": 232,
+    "filename": "oj.png",
+    "translation": [
+      10,
+      1133
+    ],
+    "rotation": 359.71459091654026,
+    "mse_score": -4002.321044921875,
+    "coverage": 92.58812386156649
+  },
+  {
+    "step": 233,
+    "filename": "coffee.png",
+    "translation": [
+      294,
+      1398
+    ],
+    "rotation": 257.7155123379116,
+    "mse_score": -3987.617431640625,
+    "coverage": 92.59530054644809
+  },
+  {
+    "step": 234,
+    "filename": "hard_core.png",
+    "translation": [
+      265,
+      1706
+    ],
+    "rotation": 5.4976492288683465,
+    "mse_score": -3979.241943359375,
+    "coverage": 92.64903460837887
+  },
+  {
+    "step": 235,
+    "filename": "arizona.png",
+    "translation": [
+      1360,
+      1224
+    ],
+    "rotation": 325.79977544444284,
+    "mse_score": -3970.278564453125,
+    "coverage": 92.71347905282332
+  },
+  {
+    "step": 236,
+    "filename": "hard_core.png",
+    "translation": [
+      985,
+      633
+    ],
+    "rotation": 66.45916235913008,
+    "mse_score": -3958.956787109375,
+    "coverage": 92.71814207650273
+  },
+  {
+    "step": 237,
+    "filename": "lush_rush.png",
+    "translation": [
+      879,
+      807
+    ],
+    "rotation": 237.43652333116853,
+    "mse_score": -3952.022216796875,
+    "coverage": 92.75635701275046
+  },
+  {
+    "step": 238,
+    "filename": "hard_core.png",
+    "translation": [
+      777,
+      1009
+    ],
+    "rotation": 78.06732896181698,
+    "mse_score": -3943.29052734375,
+    "coverage": 92.77664845173041
+  },
+  {
+    "step": 239,
+    "filename": "soda.png",
+    "translation": [
+      14,
+      1550
+    ],
+    "rotation": 278.54951423203306,
+    "mse_score": -3936.557861328125,
+    "coverage": 92.83060109289617
+  },
+  {
+    "step": 240,
+    "filename": "hard_core.png",
+    "translation": [
+      174,
+      782
+    ],
+    "rotation": 218.9840165455948,
+    "mse_score": -3932.202880859375,
+    "coverage": 92.83668488160292
+  },
+  {
+    "step": 241,
+    "filename": "vodka soda.png",
+    "translation": [
+      457,
+      708
+    ],
+    "rotation": 78.80601062698558,
+    "mse_score": -3924.304931640625,
+    "coverage": 92.84706739526412
+  },
+  {
+    "step": 242,
+    "filename": "soda.png",
+    "translation": [
+      120,
+      1563
+    ],
+    "rotation": 121.25272500757815,
+    "mse_score": -3918.035888671875,
+    "coverage": 92.87759562841529
+  },
+  {
+    "step": 243,
+    "filename": "vodka soda.png",
+    "translation": [
+      587,
+      386
+    ],
+    "rotation": 315.3206716475514,
+    "mse_score": -3911.6494140625,
+    "coverage": 92.87759562841529
+  },
+  {
+    "step": 244,
+    "filename": "coffee.png",
+    "translation": [
+      490,
+      912
+    ],
+    "rotation": 143.53889366958856,
+    "mse_score": -3897.049560546875,
+    "coverage": 92.87759562841529
+  },
+  {
+    "step": 245,
+    "filename": "coffee.png",
+    "translation": [
+      175,
+      834
+    ],
+    "rotation": 103.72415433826187,
+    "mse_score": -3878.745361328125,
+    "coverage": 92.91398907103824
+  },
+  {
+    "step": 246,
+    "filename": "soda.png",
+    "translation": [
+      44,
+      1173
+    ],
+    "rotation": 278.84565970235735,
+    "mse_score": -3872.47021484375,
+    "coverage": 93.00586520947178
+  },
+  {
+    "step": 247,
+    "filename": "oj.png",
+    "translation": [
+      46,
+      1093
+    ],
+    "rotation": 142.29769022937117,
+    "mse_score": -3867.96875,
+    "coverage": 93.10207650273225
+  },
+  {
+    "step": 248,
+    "filename": "hard_core.png",
+    "translation": [
+      960,
+      148
+    ],
+    "rotation": 287.8180237594107,
+    "mse_score": -3861.69287109375,
+    "coverage": 93.15406193078324
+  },
+  {
+    "step": 249,
+    "filename": "surge.png",
+    "translation": [
+      1396,
+      163
+    ],
+    "rotation": 70.01416904224513,
+    "mse_score": -3852.799560546875,
+    "coverage": 93.17413479052823
+  },
+  {
+    "step": 250,
+    "filename": "hard_core.png",
+    "translation": [
+      1157,
+      1299
+    ],
+    "rotation": 324.87464484687126,
+    "mse_score": -3847.967529296875,
+    "coverage": 93.2055009107468
+  }
+]
