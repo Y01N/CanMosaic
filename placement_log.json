@@ -1,0 +1,272 @@
+[
+  {
+    "angle": 36.67263412475586,
+    "position": [
+      664.0159912109375,
+      822.523193359375
+    ],
+    "improvement": 0.10725855827331543,
+    "can_index": 1,
+    "can_filename": "test-cans/8.16x4.83/beijing_corn.png"
+  },
+  {
+    "angle": 16.32701873779297,
+    "position": [
+      1062.62744140625,
+      420.93682861328125
+    ],
+    "improvement": 0.0179440975189209,
+    "can_index": 2,
+    "can_filename": "test-cans/8.16x4.83/oj.png"
+  },
+  {
+    "angle": -9.483914375305176,
+    "position": [
+      513.6365966796875,
+      323.6210632324219
+    ],
+    "improvement": 0.08081507682800293,
+    "can_index": 3,
+    "can_filename": "test-cans/8.16x4.83/salmon.png"
+  },
+  {
+    "angle": 22.649320602416992,
+    "position": [
+      696.0265502929688,
+      1024.2994384765625
+    ],
+    "improvement": 0.0126267671585083,
+    "can_index": 4,
+    "can_filename": "test-cans/8.16x4.83/strawberry_juice.png"
+  },
+  {
+    "angle": 25.848697662353516,
+    "position": [
+      598.515380859375,
+      866.1429443359375
+    ],
+    "improvement": 0.0,
+    "can_index": 5,
+    "can_filename": "test-cans/8.16x4.83/oj.png"
+  },
+  {
+    "angle": 17.94902992248535,
+    "position": [
+      482.4725341796875,
+      1204.0001220703125
+    ],
+    "improvement": 0.04411673545837402,
+    "can_index": 6,
+    "can_filename": "test-cans/8.16x4.83/fanta.png"
+  },
+  {
+    "angle": 13.988383293151855,
+    "position": [
+      605.321533203125,
+      830.3433227539062
+    ],
+    "improvement": 0.0,
+    "can_index": 7,
+    "can_filename": "test-cans/8.16x4.83/lush_rush.png"
+  },
+  {
+    "angle": 31.105180740356445,
+    "position": [
+      496.5364685058594,
+      735.4600830078125
+    ],
+    "improvement": 0.0,
+    "can_index": 8,
+    "can_filename": "test-cans/8.16x4.83/pepsi.png"
+  },
+  {
+    "angle": -12.483709335327148,
+    "position": [
+      408.0994567871094,
+      407.7599182128906
+    ],
+    "improvement": 0.00459212064743042,
+    "can_index": 9,
+    "can_filename": "test-cans/8.16x4.83/tomato.png"
+  },
+  {
+    "angle": 21.448017120361328,
+    "position": [
+      782.667236328125,
+      1323.26806640625
+    ],
+    "improvement": 0.0,
+    "can_index": 10,
+    "can_filename": "test-cans/8.16x4.83/oj.png"
+  },
+  {
+    "angle": 22.92198371887207,
+    "position": [
+      667.8804931640625,
+      1013.4691162109375
+    ],
+    "improvement": 0.0,
+    "can_index": 11,
+    "can_filename": "test-cans/8.16x4.83/cambells.png"
+  },
+  {
+    "angle": -8.122753143310547,
+    "position": [
+      1002.17724609375,
+      1362.681640625
+    ],
+    "improvement": 0.0,
+    "can_index": 12,
+    "can_filename": "test-cans/8.16x4.83/arizona.png"
+  },
+  {
+    "angle": -15.042149543762207,
+    "position": [
+      721.3131713867188,
+      1215.553466796875
+    ],
+    "improvement": 0.0029328465461730957,
+    "can_index": 13,
+    "can_filename": "test-cans/8.16x4.83/salmon.png"
+  },
+  {
+    "angle": 5.274050235748291,
+    "position": [
+      547.7213745117188,
+      1363.3719482421875
+    ],
+    "improvement": 0.0,
+    "can_index": 14,
+    "can_filename": "test-cans/8.16x4.83/clorox.png"
+  },
+  {
+    "angle": 24.934118270874023,
+    "position": [
+      708.1337280273438,
+      1360.5946044921875
+    ],
+    "improvement": 0.0,
+    "can_index": 15,
+    "can_filename": "test-cans/8.16x4.83/lush_rush.png"
+  },
+  {
+    "angle": 10.5557279586792,
+    "position": [
+      681.8104858398438,
+      1307.71337890625
+    ],
+    "improvement": 0.0,
+    "can_index": 16,
+    "can_filename": "test-cans/8.16x4.83/hard_core.png"
+  },
+  {
+    "angle": 10.471378326416016,
+    "position": [
+      570.47412109375,
+      413.6165466308594
+    ],
+    "improvement": 0.00410616397857666,
+    "can_index": 17,
+    "can_filename": "test-cans/8.16x4.83/new generic.png"
+  },
+  {
+    "angle": 32.6820182800293,
+    "position": [
+      889.0671997070312,
+      823.3480834960938
+    ],
+    "improvement": 0.0018301606178283691,
+    "can_index": 18,
+    "can_filename": "test-cans/8.16x4.83/tomsoup.png"
+  },
+  {
+    "angle": 16.237407684326172,
+    "position": [
+      531.94970703125,
+      432.0602111816406
+    ],
+    "improvement": 0.004785716533660889,
+    "can_index": 19,
+    "can_filename": "test-cans/8.16x4.83/fanta.png"
+  },
+  {
+    "angle": 16.418376922607422,
+    "position": [
+      784.6942749023438,
+      1144.4814453125
+    ],
+    "improvement": 0.0,
+    "can_index": 20,
+    "can_filename": "test-cans/8.16x4.83/generic diet soda.png"
+  },
+  {
+    "angle": -14.931113243103027,
+    "position": [
+      804.3451538085938,
+      1465.7777099609375
+    ],
+    "improvement": 0.0,
+    "can_index": 21,
+    "can_filename": "test-cans/8.16x4.83/apple cola.png"
+  },
+  {
+    "angle": -1.6411495208740234,
+    "position": [
+      455.7514953613281,
+      551.1333618164062
+    ],
+    "improvement": 0.0,
+    "can_index": 22,
+    "can_filename": "test-cans/8.16x4.83/tomsoup.png"
+  },
+  {
+    "angle": 18.12883758544922,
+    "position": [
+      1005.2864379882812,
+      345.0406494140625
+    ],
+    "improvement": 0.0,
+    "can_index": 23,
+    "can_filename": "test-cans/8.16x4.83/oj.png"
+  },
+  {
+    "angle": 1.6707489490509033,
+    "position": [
+      1057.3741455078125,
+      596.107421875
+    ],
+    "improvement": 0.00021761655807495117,
+    "can_index": 24,
+    "can_filename": "test-cans/8.16x4.83/surge.png"
+  },
+  {
+    "angle": -7.8618388175964355,
+    "position": [
+      992.5477905273438,
+      1514.62451171875
+    ],
+    "improvement": 0.0,
+    "can_index": 25,
+    "can_filename": "test-cans/8.16x4.83/soda.png"
+  },
+  {
+    "angle": 29.006099700927734,
+    "position": [
+      614.5421752929688,
+      884.6184692382812
+    ],
+    "improvement": 0.0,
+    "can_index": 26,
+    "can_filename": "test-cans/8.16x4.83/beijing_corn.png"
+  },
+  {
+    "angle": 9.037508010864258,
+    "position": [
+      862.1475219726562,
+      504.3588562011719
+    ],
+    "improvement": 0.0,
+    "can_index": 27,
+    "can_filename": "test-cans/8.16x4.83/arizona.png"
+  }
+]
