@@ -1,3 +1,10 @@
-Pillow==9.0.0
-numpy==1.21.0
-opencv-python==4.5.3.20210927
+torch
+torchvision
+lpips
+kornia
+matplotlib
+tqdm
+opencv-python
+scikit-image
+numpy
+pandas
